@@ -4,7 +4,7 @@
 
 This CDK application deploys OpenSearch Serverless collection for vector storage, configures necessary security policies, and integrates with Amazon Bedrock and Bedrock Agent. This shows how to automate the setup of Amazon Bedrock with agents and knowledge base using CDK
 
-The solution sets up a vector index optimized for embedding storage, an S3 bucket for document management, and a Bedrock agent that can interact with the knowledge base through natural language.
+This solution sets up a vector index optimized for embedding storage, an S3 bucket for document management, and a Bedrock agent that can interact with the knowledge base through natural language.
 
 This project deploys an AWS CDK application consisting of two stacks: OpenSearch Serverless and Amazon Bedrock integration.
 
